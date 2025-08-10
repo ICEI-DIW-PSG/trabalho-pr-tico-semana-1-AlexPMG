@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Alex Prieto Garbazza Ferraz
+Matricula: 897619
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Imagem da tela de inspecionar com navegador](C:\Users\Alex\Videos\Faculdade\trabalho-pr-tico-semana-1-AlexPMG\images\inspecionar.PNG)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+[Imagem da tela de projeto no Replit](C:\Users\Alex\Videos\Faculdade\trabalho-pr-tico-semana-1-AlexPMG\images\replit.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
