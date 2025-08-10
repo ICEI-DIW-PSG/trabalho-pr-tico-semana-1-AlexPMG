@@ -9,11 +9,11 @@ Matricula: 897619
 
 ## Tela de inspeção com navegador
 
-![Imagem da tela de inspecionar com navegador](C:\Users\Alex\Videos\Faculdade\trabalho-pr-tico-semana-1-AlexPMG\images\inspecionar.PNG)
+![imagem inspecionar](images/inspecionar2.png)
 
 ## Tela de projeto no Replit
 
-![Imagem da tela de projeto no Replit](C:\Users\Alex\Videos\Faculdade\trabalho-pr-tico-semana-1-AlexPMG\images\replit.PNG)
+!![imagem replit](images/replit2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
