@@ -13,7 +13,7 @@ Matricula: 897619
 
 ## Tela de projeto no Replit
 
-[Imagem da tela de projeto no Replit](C:\Users\Alex\Videos\Faculdade\trabalho-pr-tico-semana-1-AlexPMG\images\replit.PNG)
+![Imagem da tela de projeto no Replit](C:\Users\Alex\Videos\Faculdade\trabalho-pr-tico-semana-1-AlexPMG\images\replit.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
